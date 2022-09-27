@@ -4,7 +4,7 @@
   - What is SSD, what is use for and when to use it
   - Compare RAM vs SSD
   - What is CPU, when to use it?
-  - When user click or typing, what do computers do?
+  - When user click or typing, what computer do?
 - Algorithms (relate to programming):
   - What is algorithms?
   - When/Why to use algorithms in programming?
