@@ -1,10 +1,23 @@
 # Fundamental:
+Javascript - or called Js: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+- What is Js:
+  - Definition: https://en.wikipedia.org/wiki/JavaScript
+  - Definition on MDN: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+- Start learning (in order):
+  - https://www.javascripttutorial.net/
+- Practices:
+  - https://codesignal.com/
+
+
+
+# Computer Science:
+- Programming and Computer Science: https://www.youtube.com/watch?v=zOjov-2OZ0E
 - How a computer works inside out:
   - What is RAM what is use for and when to use it
   - What is SSD, what is use for and when to use it
   - Compare RAM vs SSD
   - What is CPU, when to use it?
-  - When user click or typing, what computer do?
+  - When user click or typing, what do computers do?
 - Algorithms (relate to programming):
   - What is algorithms?
   - When/Why to use algorithms in programming?
