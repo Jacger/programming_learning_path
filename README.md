@@ -1,9 +1,5 @@
 # Fundamental:
-Javascript - or called Js: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
-- What is Js:
-  - Definition: https://en.wikipedia.org/wiki/JavaScript
-  - Definition on MDN: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
-- Start learning (in order):
+- Start learning programming (in order):
   - https://www.javascripttutorial.net/
 - Practices:
   - https://codesignal.com/
